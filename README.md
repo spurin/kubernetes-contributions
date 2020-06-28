@@ -4,8 +4,17 @@
 
 ### Merged
 
-* Nslookup target to include fully qualified service name: [EN|FR|ID|JA|KO|ZH](https://github.com/kubernetes/website/pull/19603)
-* Add note, regarding example requirement for nfs helper /sbin/mount.nfs: [EN](https://github.com/kubernetes/website/pull/19774) [FR](https://github.com/kubernetes/website/pull/19807) [ID](https://github.com/kubernetes/website/pull/19808)
-* Remove Namespace specifics for horizontal pod autoscale walkthrough: [EN](https://github.com/kubernetes/website/pull/20555) [KO](https://github.com/kubernetes/website/pull/20563) [ZH](https://github.com/kubernetes/website/pull/20564)
+|Description|Origin (Created by me)|Origin (Created by others)|FR Equivalent|ID Equivalent|JA Equivalent|KO Equivalent|ZH Equivalent|
+|-----------|----------------------|--------------------------|-------------|-------------|-------------|-------------|-------------|
+|Nslookup target to include fully qualified service name|[PR19603](https://github.com/kubernetes/website/pull/19603)||[PR19603](https://github.com/kubernetes/website/pull/19603)|[PR19603](https://github.com/kubernetes/website/pull/19603)|[PR19603](https://github.com/kubernetes/website/pull/19603)|[PR19603](https://github.com/kubernetes/website/pull/19603)|[PR19603](https://github.com/kubernetes/website/pull/19603)|
+|Add note, regarding example requirement for nfs helper /sbin/mount.nfs|[PR19774](https://github.com/kubernetes/website/pull/19774)||[PR19807](https://github.com/kubernetes/website/pull/19807)|[PR19808](https://github.com/kubernetes/website/pull/19808)||||||
+|Remove Namespace specifics for horizontal pod autoscale walkthrough|[PR20555](https://github.com/kubernetes/website/pull/20555)|||||[PR20563](https://github.com/kubernetes/website/pull/20563)|[PR20564](https://github.com/kubernetes/website/pull/20564)|
+|update storage-classes pv section link||[PR22108](https://github.com/kubernetes/website/pull/22108) [ISSUE:22107](https://github.com/kubernetes/website/issues/22107)||[PR22109](https://github.com/kubernetes/website/pull/22109)||||
 
+### Feedback
 
+|Description|Links|
+|-----------|-----|
+|Fix dead link of api-conventions doc (ja)|[PR19801](https://github.com/kubernetes/website/pull/19801)|
+|replace http helm link with https|[PR19803](https://github.com/kubernetes/website/pull/19803)|
+|Update minikube documentation|[PR19756](https://github.com/kubernetes/website/pull/19756)|
