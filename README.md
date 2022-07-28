@@ -11,6 +11,13 @@
 |Remove Namespace specifics for horizontal pod autoscale walkthrough|[PR20555](https://github.com/kubernetes/website/pull/20555)|||||[PR20563](https://github.com/kubernetes/website/pull/20563)|[PR20564](https://github.com/kubernetes/website/pull/20564)|
 |update storage-classes pv section link||[PR22108](https://github.com/kubernetes/website/pull/22108) [ISSUE:22107](https://github.com/kubernetes/website/issues/22107)||[PR22109](https://github.com/kubernetes/website/pull/22109)||||
 
+### Work in Progress
+|Description|Origin (Created by me)|Origin (Created by others)|FR Equivalent|ID Equivalent|JA Equivalent|KO Equivalent|ZH Equivalent|
+|-----------|----------------------|--------------------------|-------------|-------------|-------------|-------------|-------------|
+|Added supporting context for job suspension functionality|[PR35516](https://github.com/kubernetes/website/pull/35516)|||||||
+
+
+
 ### Feedback
 
 |Description|Links|
