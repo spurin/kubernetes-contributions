@@ -4,9 +4,6 @@
 
 ### Work in Progress
 
-- Added supporting context for job suspension functionality - [Pull Request:35516](https://github.com/kubernetes/website/pull/35516)
-- New pull request guides user to url that 404's - [Issue:35666](https://github.com/kubernetes/website/issues/35666)
-
 ### Merged Pull Requests / Closed Issues
 
 - Nslookup target to include fully qualified service name (EN|FR|ID|JA|KO|ZH) - [Pull Request:19603](https://github.com/kubernetes/website/pull/19603)
@@ -18,6 +15,9 @@
 - Remove Namespace specifics for horizontal pod autoscale walkthrough (ZH) - [Pull Request:20564](https://github.com/kubernetes/website/pull/20564)
 - Update storage-classes pv section link (EN) - [Pull Request:22108](https://github.com/kubernetes/website/pull/22108), [Issue:22107](https://github.com/kubernetes/website/issues/22107)
 - Update storage-classes pv section link (IN) - [Pull Request:22109](https://github.com/kubernetes/website/pull/22109)
+- Added supporting context for job suspension functionality - [Pull Request:35516](https://github.com/kubernetes/website/pull/35516)
+- New pull request guides user to url that 404's - [Issue:35666](https://github.com/kubernetes/website/issues/35666)
+- Fix for Kubernetes icon script - [Pull Request:7321](https://github.com/kubernetes/community/pull/7321)
 
 ### Feedback
 
