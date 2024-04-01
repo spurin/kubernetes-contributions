@@ -4,6 +4,8 @@
 
 ### Work in Progress
 
+- Update kubectl annotate command to include change-cause example - [Pull Request:124134](https://github.com/kubernetes/kubernetes/pull/124134)
+
 ### Merged Pull Requests / Closed Issues
 
 - Nslookup target to include fully qualified service name (EN|FR|ID|JA|KO|ZH) - [Pull Request:19603](https://github.com/kubernetes/website/pull/19603)
