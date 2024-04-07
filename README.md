@@ -4,6 +4,7 @@
 
 ### Work in Progress
 
+- Update diversity criteria for sig-release participation - [Pull Request:2469](https://github.com/kubernetes/sig-release/pull/2469)
 - Update kubectl annotate command to include change-cause example - [Pull Request:124134](https://github.com/kubernetes/kubernetes/pull/124134)
 
 ### Merged Pull Requests / Closed Issues
