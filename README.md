@@ -4,6 +4,7 @@
 
 ### Work in Progress
 
+- Feature request for tutorials to use multi-arch containers [Issue:45822](https://github.com/kubernetes/website/issues/45822)
 - Liveness image does not support ARM architure and examples do not work - [Issue:45809](https://github.com/kubernetes/website/issues/45809)
 - Update diversity criteria for sig-release participation - [Pull Request:2469](https://github.com/kubernetes/sig-release/pull/2469)
 - Update kubectl annotate command to include change-cause example - [Pull Request:124134](https://github.com/kubernetes/kubernetes/pull/124134)
