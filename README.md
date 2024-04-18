@@ -4,6 +4,7 @@
 
 ### Work in Progress
 
+- Feature request for copy example consistency in the docs - [Issue:45910](https://github.com/kubernetes/website/issues/45910)
 - Update Liveness image to use multi-arch agnhost container image - [Pull Request:45837](https://github.com/kubernetes/website/pull/45837) [RU](https://github.com/kubernetes/website/pull/45838) [JA](https://github.com/kubernetes/website/pull/45839) [ZH-CN](https://github.com/kubernetes/website/pull/45840) [ID](https://github.com/kubernetes/website/pull/45841) [FR](https://github.com/kubernetes/website/pull/45842)
 - Feature request for tutorials to use multi-arch containers - [Issue:45822](https://github.com/kubernetes/website/issues/45822)
 - Liveness image does not support ARM architure and examples do not work - [Issue:45809](https://github.com/kubernetes/website/issues/45809)
