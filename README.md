@@ -6,12 +6,12 @@
 
 - Feature request for copy example consistency in the docs - [Issue:45910](https://github.com/kubernetes/website/issues/45910)
 - Feature request for tutorials to use multi-arch containers - [Issue:45822](https://github.com/kubernetes/website/issues/45822)
-- Liveness image does not support ARM architure and examples do not work - [Issue:45809](https://github.com/kubernetes/website/issues/45809)
 - Update diversity criteria for sig-release participation - [Pull Request:2469](https://github.com/kubernetes/sig-release/pull/2469)
 - Update kubectl annotate command to include change-cause example - [Pull Request:124134](https://github.com/kubernetes/kubernetes/pull/124134)
 
 ### Merged Pull Requests / Closed Issues
 
+- Liveness image does not support ARM architure and examples do not work - [Issue:45809](https://github.com/kubernetes/website/issues/45809)
 - Update Liveness image to use multi-arch agnhost container image - [Pull Request:45837](https://github.com/kubernetes/website/pull/45837) [RU](https://github.com/kubernetes/website/pull/45838) [JA](https://github.com/kubernetes/website/pull/45839) [ZH-CN](https://github.com/kubernetes/website/pull/45840) [ID](https://github.com/kubernetes/website/pull/45841) [FR](https://github.com/kubernetes/website/pull/45842)
 - Nslookup target to include fully qualified service name (EN|FR|ID|JA|KO|ZH) - [Pull Request:19603](https://github.com/kubernetes/website/pull/19603)
 - Add note, regarding example requirement for nfs helper /sbin/mount.nfs - [Pull Request:19774](https://github.com/kubernetes/website/pull/19774) [FR](https://github.com/kubernetes/website/pull/19807) [ID](https://github.com/kubernetes/website/pull/19808)
