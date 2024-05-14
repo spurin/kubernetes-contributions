@@ -4,6 +4,7 @@
 
 ### Work in Progress
 
+- Notes with bullet points are malformed - [Issue:46371](https://github.com/kubernetes/website/issues/46371)
 - Feature request for copy example consistency in the docs - [Issue:45910](https://github.com/kubernetes/website/issues/45910)
 - Feature request for tutorials to use multi-arch containers - [Issue:45822](https://github.com/kubernetes/website/issues/45822)
 - Update diversity criteria for sig-release participation - [Pull Request:2469](https://github.com/kubernetes/sig-release/pull/2469)
